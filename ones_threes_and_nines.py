@@ -1,4 +1,4 @@
-class Ones_three_nines:
+class Ones_threes_nines:
     def __init__(self,num:float):
         self.__num = num
         self.__ones = num
