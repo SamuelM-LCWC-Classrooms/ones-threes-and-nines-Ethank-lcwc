@@ -1,4 +1,4 @@
-class ones_three_nines:
+class Ones_three_nines:
     def __init__(self,num:float):
         self.__num = num
         self.__ones = num
@@ -10,7 +10,6 @@ class ones_three_nines:
     
     def threes(self):
         return self.__threes
-    
     
     def nines(self):
         return self.__nines
